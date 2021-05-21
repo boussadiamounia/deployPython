@@ -1,2 +1,2 @@
 #!/bin/bash
-tar cvzf projet_python.tar.gz flask-pytest-example-master
+tar cvzf projet_python.tar.gz projet_python
